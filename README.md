@@ -13,5 +13,5 @@
   <li> Выбрать файл с диаграммой </li>
 </ol>
 <hr>
-<h2 align="center"><i>Бекбаев Алишер, студент группы ИВ1-21</i></h2>
+<h2 align="center"><i style="text-decoration:underline">Бекбаев Алишер, студент группы ИВ1-21</i></h2>
 <hr>
